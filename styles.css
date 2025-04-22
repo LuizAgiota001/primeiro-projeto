@@ -27,11 +27,11 @@ section {
 
 .inicio-fundo {
     /* aula 3 */
-    background-image: url('img/imagem5.jpg');
+    background-image: url('img/imagem2.jpg');
     /* Substitua pelo caminho da sua imagem */
     background-size: cover;
     background-position: right;
-    border-radius: 80px;
+    border-radius: 70px;
     width: 100%;
     height: 606px;
     padding: 40px;
